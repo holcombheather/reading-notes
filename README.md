@@ -14,3 +14,5 @@ Include 3 reminders to yourself of how to keep yourself in a growth mindset
 3. Even more
 
 Add more intro stuff here
+
+Add in reading assignment portion 
