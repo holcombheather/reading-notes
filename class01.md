@@ -83,8 +83,8 @@ This text will also be _italicized_
 
 >To display an image, use an exclamation mark followed by square brackets containing the alt text, and parentheses containing the image URL. For example:
 
-![Alt text]()
-
-<sub>These are just a few examples of the most commonly used Markdown syntax. There are many other formatting options available, including blockquotes, code blocks, tables, and more.</sub>
+![Alt text](https://hips.hearstapps.com/hmg-prod/images/mh-diptych-mythic-1581719132.png?crop=0.420xw:0.840xh;0.535xw,0&resize=1200:*)
 
 ***
+
+<sub>These are just a few examples of the most commonly used Markdown syntax. There are many other formatting options available, including blockquotes, code blocks, tables, and more.</sub>
