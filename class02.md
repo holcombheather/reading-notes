@@ -35,3 +35,5 @@ Basic commands used in the command line interface of a Unix-based operating syst
 4. `cd ..`: Changes the current directory to the parent directory.
 
 5. `ls projects/new-project`: Lists the contents of the "new-project" directory inside the "projects" directory. Since we created a file called "newfile.md" inside that directory, if it is listed then we can confirm the new file was created successfully.
+
+***
