@@ -1,4 +1,4 @@
-# Text Editor Notes
+# The Coder's Computer Notes
 
 #### What are four important features to look for in a text editor?
 
