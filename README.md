@@ -2,7 +2,7 @@
 <sub>My reading journal for Code Fellows 102</sub>
 
 ### Intro
-Oh hello! My name is **Heather Holcomb** and this is my Lab assignment. 
+Oh hello! 😃 My name is **Heather Holcomb** and this is my Lab assignment. 
 GitHub portfolio: [https://github.com/holcombheather ](url) 
 
 ### Growth Mindset 
@@ -14,7 +14,3 @@ Here are 3 affirmations to develop a growth mindset:
 2. I believe in my ability to learn and improve over time.
 3. I am open to feedback and use it to improve myself.
 
-
-Add more intro stuff here
-
-Add in reading assignment portion 
