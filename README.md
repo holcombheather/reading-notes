@@ -3,7 +3,7 @@
 
 ### Intro
 Oh hello! 😃 My name is **Heather Holcomb** and this is my Lab assignment. 
-GitHub portfolio: (https://github.com/holcombheather)
+[GitHub portfolio here](https://github.com/holcombheather)
 
 ### Growth Mindset 
 
