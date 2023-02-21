@@ -19,22 +19,25 @@ Overall, Markdown provides a convenient and efficient way to format text for onl
 ### Examples of the most commonly used Markdown syntax:
 
 ###### Headings:
->To create a heading, use the "#" symbol followed by a space and the text of the heading. For example:
->
-><p># This is a level 1 heading<br>
->## This is a level 2 heading<br>
->### This is a level 3 heading</p>
+To create a heading, use the "#" symbol followed by a space and the text of the heading. For example:
+
+    # This is a level 1 heading
+    ## This is a level 2 heading
+    ### This is a level 3 heading
+
 
 ###### Bold and Italic Text:
->To bold text, enclose it in double asterisks or double underscores. To italicize text, enclose it in single asterisks or single underscores. For example:
->
-><p>This text will be **bold** <br>
-> This text will also be __bold__ </p>
->
-><p> This text will be *italicized* </br>
-> This text will also be _italicized_ </p>
+
+To bold text, enclose it in double asterisks or double underscores. To italicize text, enclose it in single asterisks or single underscores. For example:
+
+    This text will be **bold**
+    This text will also be __bold__
+
+    This text will be *italicized*
+    This text will also be _italicized_
 
 ###### Lists:
+
 > To create an unordered list, use a dash or an asterisk before each list item. To create an ordered list, use numbers followed by a period. For example:
 >
 >- Item 1
@@ -46,11 +49,13 @@ Overall, Markdown provides a convenient and efficient way to format text for onl
 >3. Third item
 
 ###### Links:
+
 >To create a link, enclose the text of the link in square brackets, followed by the URL in parentheses. For example:
 >
->[Visit Google](www.google.com)
+>[Visit Google](https://www.google.com/)
 
 ###### Images:
+
 >To display an image, use an exclamation mark followed by square brackets containing the alt text, and parentheses containing the image URL. For example:
 >
 >![Alt text]()
