@@ -10,7 +10,7 @@
 ***
 
 #### What do the following commands do?
-Basic commands used in the command line interface of a Unix-based operating system such as Linux or macOS. 
+Basic commands used in the command line interface of a Unix-b ased operating system such as Linux or macOS. 
 
 1. `pwd`: Stands for "print working directory." It shows the current working directory, which is the directory in the file system where the user is currently located.
 
