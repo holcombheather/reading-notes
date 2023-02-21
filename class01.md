@@ -1,4 +1,5 @@
-Markdown Notes
+# Markdown Reading Notes
+
 ***
 
 ### What is Markdown?
@@ -20,18 +21,18 @@ Overall, Markdown provides a convenient and efficient way to format text for onl
 ###### Headings:
 >To create a heading, use the "#" symbol followed by a space and the text of the heading. For example:
 >
->#This is a level 1 heading
->##This is a level 2 heading
->###This is a level 3 heading
+><p># This is a level 1 heading<br>
+>## This is a level 2 heading<br>
+>### This is a level 3 heading</p>
 
 ###### Bold and Italic Text:
 >To bold text, enclose it in double asterisks or double underscores. To italicize text, enclose it in single asterisks or single underscores. For example:
 >
->This text will be **bold**
->This text will also be __bold__
+><p>This text will be **bold** <br>
+> This text will also be __bold__ </p>
 >
->This text will be *italicized*
->This text will also be _italicized_
+><p> This text will be *italicized* </br>
+> This text will also be _italicized_ </p>
 
 ###### Lists:
 > To create an unordered list, use a dash or an asterisk before each list item. To create an ordered list, use numbers followed by a period. For example:
@@ -47,7 +48,7 @@ Overall, Markdown provides a convenient and efficient way to format text for onl
 ###### Links:
 >To create a link, enclose the text of the link in square brackets, followed by the URL in parentheses. For example:
 >
->[www.google.com] (Visit Google)
+>[Visit Google](www.google.com)
 
 ###### Images:
 >To display an image, use an exclamation mark followed by square brackets containing the alt text, and parentheses containing the image URL. For example:
