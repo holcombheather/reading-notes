@@ -20,4 +20,4 @@ An "assignment" operator is used in JavaScript to assign a value to a variable. 
 
 ## What is information received from the user called?
 
-nformation received from the user in JavaScript is often called "user input" or "user data". This can be obtained through various methods, such as input fields, forms, or prompts. Once received, the user input can be stored in a variable and used in your code as needed. 
+Information received from the user in JavaScript is often called __"user input"__ or "user data". This can be obtained through various methods, such as input fields, forms, or prompts. Once received, the user input can be stored in a variable and used in your code as needed. 
