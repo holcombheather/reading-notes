@@ -11,6 +11,7 @@
 - Bracket notation is used to access an object's property when the property name contains spaces or special characters or when the property name is stored as a variable.
 ##### Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 
+```markdown
     const dog = {
     name: 'Spot',
     age: 2,
@@ -19,6 +20,7 @@
         console.log(`${this.name} is ${this.age*7} in human years`);
     }
     }
+```
 
 - Using this in a method allows for dynamic access to an object's properties.
 
