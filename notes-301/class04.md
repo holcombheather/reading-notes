@@ -10,7 +10,8 @@
 
 3. We can target what the user is entering by accessing the value property of the event target, which represents the input element that triggered the event. For example, if we have an event handler on an input field with the name "username", we can target what the user is entering like this:
 
-      ```handleInputChange(event) {
+```
+     handleInputChange(event) {
         const target = event.target;
         const name = target.name;
         const value = target.value;
@@ -18,6 +19,10 @@
           [name]: value
         });
       }
+```
+
+
+
 ***
 
 ## The Conditional (Ternary) Operator Explained:
