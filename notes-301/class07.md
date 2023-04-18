@@ -8,7 +8,7 @@ Node.js is a server-side JavaScript runtime environment built on top of the Chro
 
 2. In your own words, what is Chrome’s V8 JavaScript Engine?
 
-Chrome's V8 JavaScript engine is an open-source engine that runs JavaScript code inside the Google Chrome browser. It compiles JavaScript code into machine code, making it run faster.
+Chrome's V8 JavaScript engine can execute code either within or outside of a browser - making server-side scripting possible. It also compiles JS into optimized machine code before execution so it's faster. 
 
 3. What does it mean that node is a JavaScript runtime?
 
@@ -20,9 +20,12 @@ npm (Node Package Manager) is the default package manager for Node.js. It allows
 
 5. What version of node are you running on your machine?
 
-9.4.0
+v19.6.1
 
 6. What version of npm are you running on your machine?
+
+9.4.0
+
 7. What command would you type to install a library/package called ‘jshint’?
 
 `npm install jshint`
@@ -30,6 +33,8 @@ npm (Node Package Manager) is the default package manager for Node.js. It allows
 8. What is node used for?
 
 Node is used for building server-side applications, command-line tools, and desktop applications.
+
+***
 
 ## 6 Reasons for Pair Programming
 
