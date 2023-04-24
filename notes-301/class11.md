@@ -1,6 +1,6 @@
-#MongoDB
+# MongoDB
 
-# SQL vs NoSQL
+## SQL vs NoSQL
 
 SQL | NoSQL
 --- | ---
