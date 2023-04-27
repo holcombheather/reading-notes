@@ -28,10 +28,14 @@
 
     Photos from an experiment by Elizabeth Lin in 2018 showing the undiversity of makeup. Elizabeth scraped Sephora's foundation section on their website and sorted them to demonstrate the lack of diversity in their products and marketing. She used Python for both the scraping and image creation.
 
-    Every Shade from Every Brand on Sephora:
+
+    ### Every Shade from Every Brand on Sephora:
+
     ![Sephora Foundations](https://www.elizabethylin.com/static/media/1-foundations-value-grayscale.2f480c27.jpg)
 
-    Shades from Fenty Beauty:
+
+    ### Shades from Fenty Beauty:
+
     ![Fenty Foundations](https://www.elizabethylin.com/static/media/3-foundations-saturation.c714b5ea.jpg)
 
 
