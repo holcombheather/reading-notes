@@ -78,6 +78,8 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Class 14](https://holcombheather.github.io/reading-notes/notes-401/class14)
 - [Class 15](https://holcombheather.github.io/reading-notes/notes-401/class15)
 
-#### Growth Mindset
+#### Prep Work
 
 - [Prep Work: Growth Mindset](https://holcombheather.github.io/reading-notes/notes-401/growth-mindset.md)
+- [Prep Work: Intro to SQL](https://holcombheather.github.io/reading-notes/notes-401/prep-SQL.md)
+- [Prep Work: Practice in the Terminal](https://holcombheather.github.io/reading-notes/notes-401/terminal.md)
