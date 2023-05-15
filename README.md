@@ -44,3 +44,40 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Class 14: Psychological Safety](https://holcombheather.github.io/reading-notes/notes-201/class14)
 - [Class 15: Project Kickoff](https://holcombheather.github.io/reading-notes/notes-201/class15)
 
+#### Code 301
+- [Class 01](https://holcombheather.github.io/reading-notes/notes-301/class01)
+- [Class 02](https://holcombheather.github.io/reading-notes/notes-301/class02)
+- [Class 03](https://holcombheather.github.io/reading-notes/notes-301/class03)
+- [Class 04](https://holcombheather.github.io/reading-notes/notes-301/class04)
+- [Class 05](https://holcombheather.github.io/reading-notes/notes-301/class05)
+- [Class 06](https://holcombheather.github.io/reading-notes/notes-301/class06)
+- [Class 07](https://holcombheather.github.io/reading-notes/notes-301/class07)
+- [Class 08](https://holcombheather.github.io/reading-notes/notes-301/class08)
+- [Class 09](https://holcombheather.github.io/reading-notes/notes-301/class09)
+- [Class 10](https://holcombheather.github.io/reading-notes/notes-301/class10)
+- [Class 11](https://holcombheather.github.io/reading-notes/notes-301/class11)
+- [Class 12](https://holcombheather.github.io/reading-notes/notes-301/class12)
+- [Class 13](https://holcombheather.github.io/reading-notes/notes-301/class13)
+- [Class 14](https://holcombheather.github.io/reading-notes/notes-301/class14)
+- [Class 15](https://holcombheather.github.io/reading-notes/notes-301/class15)
+
+#### Code 401
+- [Class 01: Node Ecosystem](https://holcombheather.github.io/reading-notes/notes-401/class01)
+- [Class 02](https://holcombheather.github.io/reading-notes/notes-401/class02)
+- [Class 03](https://holcombheather.github.io/reading-notes/notes-401/class03)
+- [Class 04](https://holcombheather.github.io/reading-notes/notes-401/class04)
+- [Class 05](https://holcombheather.github.io/reading-notes/notes-401/class05)
+- [Class 06](https://holcombheather.github.io/reading-notes/notes-401/class06)
+- [Class 07](https://holcombheather.github.io/reading-notes/notes-401/class07)
+- [Class 08](https://holcombheather.github.io/reading-notes/notes-401/class08)
+- [Class 09](https://holcombheather.github.io/reading-notes/notes-401/class09)
+- [Class 10](https://holcombheather.github.io/reading-notes/notes-401/class10)
+- [Class 11](https://holcombheather.github.io/reading-notes/notes-401/class11)
+- [Class 12](https://holcombheather.github.io/reading-notes/notes-401/class12)
+- [Class 13](https://holcombheather.github.io/reading-notes/notes-401/class13)
+- [Class 14](https://holcombheather.github.io/reading-notes/notes-401/class14)
+- [Class 15](https://holcombheather.github.io/reading-notes/notes-401/class15)
+
+#### Growth Mindset
+
+- [Prep Work: Growth Mindset](https://holcombheather.github.io/reading-notes/notes-401/growth-mindset.md)
