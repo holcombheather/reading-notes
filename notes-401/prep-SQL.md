@@ -19,6 +19,8 @@ Download the free e-book, [Learn SQL](https://cdn2.hubspot.net/hubfs/392937/Lear
     - ![Lesson 18](./images/lesson18.png)
 
 
+***
+
 ### Summarizing your understanding of relational databases and SQL: 
 
 1. **What is SQL?**
@@ -141,3 +143,6 @@ Download the free e-book, [Learn SQL](https://cdn2.hubspot.net/hubfs/392937/Lear
     ```
     DROP TABLE table_name;
     ```
+
+
+***
