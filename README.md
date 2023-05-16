@@ -83,3 +83,5 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Prep Work: Growth Mindset](https://holcombheather.github.io/reading-notes/notes-401/growth-mindset)
 - [Prep Work: Intro to SQL](https://holcombheather.github.io/reading-notes/notes-401/prep-SQL)
 - [Prep Work: Practice in the Terminal](https://holcombheather.github.io/reading-notes/notes-401/terminal)
+- [Prep Work: Data Structures and Algorithms](https://holcombheather.github.io/reading-notes/notes-401/prep-dsa)
+- [Prep Work: Engineering Readings](https://holcombheather.github.io/reading-notes/notes-401/prep-eng)
