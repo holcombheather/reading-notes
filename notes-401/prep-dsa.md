@@ -13,4 +13,4 @@ Choosing the right data structure depends on your problem and the tasks that nee
 
 #### 2. How can we ensure that we’ll avoid an infinite recursive call stack?
 
-When you write a recursive function, you have to tell it when to stop recursing. Make sure every resurcisve function has two parths: the base case an the recursive case. 
+When you write a recursive function, you have to tell it when to stop recursing. Make sure every recursive function has two parts: the base case an the recursive case. 
