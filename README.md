@@ -64,8 +64,8 @@ The purpose of this reading journal is create a website that will serve as both 
 #### Code 401
 - [Class 01: Node Ecosystem](https://holcombheather.github.io/reading-notes/notes-401/class01)
 - [Class 02: Express, NPM, TDD, CI/CD](https://holcombheather.github.io/reading-notes/notes-401/class02)
-- [Class 03](https://holcombheather.github.io/reading-notes/notes-401/class03)
-- [Class 04](https://holcombheather.github.io/reading-notes/notes-401/class04)
+- [Class 03: Express REST API](https://holcombheather.github.io/reading-notes/notes-401/class03)
+- [Class 04: Data Modeling](https://holcombheather.github.io/reading-notes/notes-401/class04)
 - [Class 05](https://holcombheather.github.io/reading-notes/notes-401/class05)
 - [Class 06](https://holcombheather.github.io/reading-notes/notes-401/class06)
 - [Class 07](https://holcombheather.github.io/reading-notes/notes-401/class07)
