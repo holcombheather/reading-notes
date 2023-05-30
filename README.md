@@ -72,11 +72,14 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Class 08: Access Control List](https://holcombheather.github.io/reading-notes/notes-401/class08)
 - [Class 09: Authorization/Authentication Final Project Ideas](https://holcombheather.github.io/reading-notes/notes-401/class09)
 - [Class 10: Stacks and Queues](https://holcombheather.github.io/reading-notes/notes-401/class10)
-- [Class 11](https://holcombheather.github.io/reading-notes/notes-401/class11)
-- [Class 12](https://holcombheather.github.io/reading-notes/notes-401/class12)
-- [Class 13](https://holcombheather.github.io/reading-notes/notes-401/class13)
-- [Class 14](https://holcombheather.github.io/reading-notes/notes-401/class14)
-- [Class 15](https://holcombheather.github.io/reading-notes/notes-401/class15)
+- [Class 11: Event Driven Applications](https://holcombheather.github.io/reading-notes/notes-401/class11)
+- [Class 12: Socket.io](https://holcombheather.github.io/reading-notes/notes-401/class12)
+- [Class 13: Message Queues](https://holcombheather.github.io/reading-notes/notes-401/class13)
+- [Class 14: Event Driven Architecture](https://holcombheather.github.io/reading-notes/notes-401/class14)
+- [Class 16: AWS: Cloud Servers](https://holcombheather.github.io/reading-notes/notes-401/class16)
+- [Class 17: AWS: S3 and Lambda](https://holcombheather.github.io/reading-notes/notes-401/class17)
+- [Class 18: AWS: API, Dynamo and Lambda](https://holcombheather.github.io/reading-notes/notes-401/class18)
+- [Class 19: AWS: Events](https://holcombheather.github.io/reading-notes/notes-401/class19)
 
 #### Prep Work
 
