@@ -1,7 +1,7 @@
 # Setting up new project
 
 1. Setup repo on GitHub with `README.md`, `.gitignore`, `MIT License`.
-1. Clone to local machine and create and checkout to dev branch 
+1. Clone to local machine, `cd` into newly cloned repo, and create and checkout to dev branch 
     ```node 
     git checkout -b dev
     ```
@@ -61,3 +61,76 @@
     ```node
     cp -r ../seattle-code-javascript-401d53/configs/ .
     ```
+
+****
+
+
+## Rough Notes for Starter (using Lab 08)
+
+1. Create a repo (no template, README, MIT License)
+1. Add starter code
+1. Add all of the configs
+1. extract all files from the `api-server` and bring them to the root of the new `auth-api` repo
+1. `npm i` AND make sure that all the packages from BOTH package.json files are installed: thses  are the packages that need to be added: `npm i cors bcrypt base-64 
+1. How are you going to combine - look at that structure
+1. insert `auth` folder (from the `auth-server`) into the new repo's `src` folder
+1. make sure adn confirm things work! 
+1. models - we need ONE `models/index` so we will ned to import users from `auth/models` into `src/models`
+
+
+
+
+// Propose file structure for Lab09
+
+
+├── .github
+│   ├── workflows
+│   │   └── node.yml
+├── __tests__
+│   ├── auth.test.js (integration test)
+│   └── server.test.js
+├── src
+│   ├── auth
+│   │   ├── middleware
+│   │   │   ├── acl.js
+│   │   │   ├── basic.js
+│   │   │   ├── basic.test.js (unit test)
+│   │   │   └── bearer.js
+│   │   │   ├── bearer.test.js
+│   │   ├── models
+│   │   │   └── users.js
+│   │   └── routes.js
+│   ├── error-handlers
+│   │   ├── 404.js
+│   │   └── 500.js
+│   ├── middleware
+│   │   └── logger.js
+│   ├── models
+│   │   ├── blogs
+│   │   │   └── model.js
+│   │   ├── data-collections.js
+│   │   └── index.js
+│   ├── routes
+│   │   ├── v1.js
+│   │   └── v2.js
+│   └── server.js
+├── .eslintrc.json
+├── .gitignore
+├── index.js
+├── package.json
+└── README.md
+
+# auth-api-d53
+
+## My Approach for Task 1:
+1. create repo
+1. add starter code
+1. add all of the configs
+1. extract all files from the `api-server`, and bring them to the root of the new `auth-api` repo
+1. `npm i` AND make sure that all the packages from BOTH package.json files are installed:  these are the packages that need to be added:  `npm i cors bcrypt base-64 jsonwebtoken` 
+1. get proof of life on the `api-server` portion
+1. insert `auth` folder (from the `auth-server`) into the new repo's `src` folder
+1. make sure all is wired up and confirm things works!
+1.  models - we need ONE `models/index.js`, so will need import users from `auth/models` into `src/models` 
+
+## My Approach for Task 2:
