@@ -88,3 +88,4 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Prep Work: Practice in the Terminal](https://holcombheather.github.io/reading-notes/notes-401/terminal)
 - [Prep Work: Data Structures and Algorithms](https://holcombheather.github.io/reading-notes/notes-401/prep-dsa)
 - [Prep Work: Engineering Readings](https://holcombheather.github.io/reading-notes/notes-401/prep-eng)
+- [Trees](notes-401/trees.md)
