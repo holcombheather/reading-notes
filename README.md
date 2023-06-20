@@ -80,6 +80,8 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Class 17: AWS: S3 and Lambda](https://holcombheather.github.io/reading-notes/notes-401/class17)
 - [Class 18: AWS: API, Dynamo and Lambda](https://holcombheather.github.io/reading-notes/notes-401/class18)
 - [Class 19: AWS: Events](https://holcombheather.github.io/reading-notes/notes-401/class19)
+- [Class 20: Component Based UI](https://holcombheather.github.io/reading-notes/notes-401/class20)
+
 
 #### Prep Work
 

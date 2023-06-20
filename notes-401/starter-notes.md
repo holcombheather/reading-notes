@@ -133,4 +133,22 @@
 1. make sure all is wired up and confirm things works!
 1.  models - we need ONE `models/index.js`, so will need import users from `auth/models` into `src/models` 
 
-## My Approach for Task 2:
+## Clear database
+
+Comment this in when you want to clear the DB
+
+```
+async function initializeDatabase() {
+  try {
+    // Synchronize the Regions model with the database table
+    await sequelizedDatabase.sync({ force: true });
+    console.log('All models were synchronized successfully');
+  } catch (error) {
+    console.error('Error occurred while syncing all models.', error);
+  }
+}
+
+initializeDatabase();
+```
+
+
