@@ -83,6 +83,18 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Class 27: Component Based UI](https://holcombheather.github.io/reading-notes/notes-401/class20)
 - [Class 28: Component Based UI](https://holcombheather.github.io/reading-notes/notes-401/class28)
 - [Class 29: Advanced State with Reducers](https://holcombheather.github.io/reading-notes/notes-401/class29)
+- [Class 31: React - Context API](https://holcombheather.github.io/reading-notes/notes-401/class31)
+- [Class 32: React - Context API](https://holcombheather.github.io/reading-notes/notes-401/class32)
+- [Class 33: React - Cookies, Local Storage Login and Auth Components](https://holcombheather.github.io/reading-notes/notes-401/class33)
+- [Class 34: React - RBAC](https://holcombheather.github.io/reading-notes/notes-401/class34)
+- [Class 36: React - Redux Reducers, Actions and State](https://holcombheather.github.io/reading-notes/notes-401/class36)
+- [Class 37: Redux - Combined Reducers](https://holcombheather.github.io/reading-notes/notes-401/class37)
+- [Class 38: Redux - Asynchronous Actions](https://holcombheather.github.io/reading-notes/notes-401/class38)
+- [Class 39: Redux - Alternatives & Advanced Usage](https://holcombheather.github.io/reading-notes/notes-401/class39)
+- [Class 40a - Ethics in Tech: ](https://holcombheather.github.io/reading-notes/notes-401/class40a)
+- [Class 40b - OSS Contributions: ](https://holcombheather.github.io/reading-notes/notes-401/class40b)
+- [Class 43: Open Source](https://holcombheather.github.io/reading-notes/notes-401/class43)
+
 
 #### Prep Work
 
@@ -93,4 +105,5 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Prep Work: Engineering Readings](https://holcombheather.github.io/reading-notes/notes-401/prep-eng)
 - [Trees](notes-401/trees.md)
 - [Hash Tables](notes-401/hashtables.md)
+- [Graphs](notes-401/graphs.md)
 - [Starter](notes-401/starter-notes.md)
