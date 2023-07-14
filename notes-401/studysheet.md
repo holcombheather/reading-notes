@@ -120,3 +120,5 @@ class HashTable {
 }
 
 ```
+
+[link](/Users/heathergallagher/projects/courses/code-102/reading-notes/notes-401/studysheet.md)
