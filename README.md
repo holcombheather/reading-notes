@@ -107,3 +107,5 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Hash Tables](notes-401/hashtables.md)
 - [Graphs](notes-401/graphs.md)
 - [Starter](notes-401/starter-notes.md)
+
+[link]()
