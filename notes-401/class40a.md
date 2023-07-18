@@ -1,1 +1,15 @@
 # Ethics
+
+# Ethics in Tech
+
+The article from the "Ethics in Technology" section, titled "Microsoft Employees Protest Work With ICE, as Tech Industry Mobilizes Over Immigration", explores the ethical conflicts within the technology industry and among its employees concerning the use of their technologies by controversial government agencies such as Immigration and Customs Enforcement (ICE). The central issue is the collaboration between Microsoft and ICE, in the form of a $19.4 million contract for data processing and AI capabilities, amidst the enforcement of immigration policies which were resulting in the separation of migrant children from their families.
+
+The actions of Microsoft's employees in writing the open letter urging the company to stop working with ICE highlight their concerns about being complicit in what they view as an unethical and harmful practice. They are, in essence, asserting their belief that technology companies, as the creators of influential tools, bear a responsibility to ensure that these tools are used for good and not for harm.
+
+The responses from the tech industry, including Microsoft's management and other tech companies, show a similar recognition of this ethical responsibility. Many tech leaders, such as Satya Nadella, Brad Smith, and others, have publicly criticized the immigration policy and affirmed the need for tech companies to take an ethical stand in their practices. 
+
+However, it is also important to note that Microsoft did not immediately cease its contract with ICE, despite its public condemnation of the immigration policy. This could be seen as a dissonance between words and actions, highlighting the complexity of ethical issues in the tech industry where business interests, legal contracts, and ethical obligations intersect.
+
+I largely agree with the article and the actions taken by the tech workers. Their stance emphasizes the growing awareness and activism regarding the role of technology in society, and its potential to be used in harmful ways. It is imperative for tech companies to ensure their work aligns with ethical principles and does not contribute to harm or human rights violations. 
+
+One thing that particularly stood out was the employees' initiative in drafting the open letter, which reflects an increasing consciousness and willingness among tech workers to hold their employers accountable for their actions. Another interesting point is the ripple effect of this protest, as it not only affected Microsoft but also led to a wider conversation about the ethical responsibilities of tech companies, involving other major tech firms like Apple, Google, and Facebook.
