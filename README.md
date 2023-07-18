@@ -106,6 +106,8 @@ The purpose of this reading journal is create a website that will serve as both 
 - [Trees](notes-401/trees.md)
 - [Hash Tables](notes-401/hashtables.md)
 - [Graphs](notes-401/graphs.md)
+- [Ethics](notes-401/ethics.md)
+
 - [Starter](notes-401/starter-notes.md)
 
 [link]()
